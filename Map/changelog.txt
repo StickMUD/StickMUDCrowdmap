@@ -1,0 +1,4 @@
+changelog ={
+  [[Created initial map]],
+  [[Created version.txt and changelog.txt files]],
+}
