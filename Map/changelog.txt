@@ -1,4 +1,4 @@
 changelog ={
-  [[Created initial map]],
-  [[Created version.txt and changelog.txt files]],
+  [[Added area Tristeza Island Harbour]],
+  [[Added three four rooms to Tristeza Island Harbour]],
 }
